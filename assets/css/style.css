@@ -191,7 +191,7 @@ footer{
     #newsletter h1,
     #newsletter form,
     #boxes .box,
-    article#main.col,
+    article#main-col,
     aside#sidebar{
         float: none;
         text-align: center;
